@@ -3,5 +3,7 @@
 Author: Vineeth Thalakottoor (vineethfrancis.physics@gmail.com) \
 
 ## Why develop PyOR when many NMR simulation packages are available? Why reinvent the wheel?
-The short answer: "The Pleasure of Finding Things Out" .
+The short answer: "The Pleasure of Finding Things Out".
 
+## Why Python??
+The answer is: it's free.
