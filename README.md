@@ -15,7 +15,7 @@ The answer is: it's free.
 ## PyOR is for?
 PyOR will be helpful for beginners (with basic knowledge of NMR and Python programming) interested in programming magnetic resonance pulse sequences and relaxation mechanics.
 
-## Features implemented in PyOR
+## Main features implemented in PyOR
 - Spin operators (Sx, Sy, Sz, S+ and S-) for any number of particles with any spin quantum number.
 - Hamiltonians: Zeeman (lab and rotating frame), B1, J coupling, Dipolar.
 - Superoperators
