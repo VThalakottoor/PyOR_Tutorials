@@ -18,7 +18,7 @@ PyOR will be helpful for beginners (with basic knowledge of NMR and Python progr
 ## Features implemented in PyOR
 - Spin operators (Sx, Sy, Sz, S+ and S-) for any number of particles with any spin quantum number.
 - Hamiltonians: Zeeman (lab and rotating frame), B1, J coupling, Dipolar.
-- Suporoperators
+- Superoperators
 - Various ways to plot Matrix and expectation values.
 -  Time Evolution of Density Matrix
   - Evolution in Hilbert Space
