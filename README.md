@@ -37,6 +37,7 @@ PyOR will be helpful for beginners (with basic knowledge of NMR and Python progr
       - Phenomenological
       - Auto-correlated Random Field Fluctuation
       - Auto-correlated Dipolar Homonuclear
+      - Auto-correlated Dipolar Heteronuclear
       - Cross Correlated CSA - Dipolar Hetronuclear
       - Redfield Kite (Redkite)
 
