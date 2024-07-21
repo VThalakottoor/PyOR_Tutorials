@@ -24,7 +24,7 @@ PyOR will be helpful for beginners (with basic knowledge of NMR and Python progr
   - Evolution in Hilbert Space
     - Unitary Propagation
     - Solve ODEs
-    - Radiation Damping, Raser/Maser (Single and multimode)
+    - Radiation Damping, Raser/Maser (single and multi-mode)
     - Relaxation Mechanisms (Redfield)
       - Phenomenological
       - Auto-correlated Random Field Fluctuation
