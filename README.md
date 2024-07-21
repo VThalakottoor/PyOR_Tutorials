@@ -1,6 +1,6 @@
 # Tutorials for PyOR (Python on Resonance)
 ## Everybody can simulate NMR
-Author: Vineeth Thalakottoor (vineethfrancis.physics@gmail.com) \
+Author: Vineeth Thalakottoor (vineethfrancis.physics@gmail.com)
 
 ## PyOR developers
 - Main contributor: Vineeth Francis THALAKOTTOOR JOSE CHACKO
