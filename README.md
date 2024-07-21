@@ -43,4 +43,4 @@ PyOR will be helpful for beginners (with basic knowledge of NMR and Python progr
 ## Features to implement in PyOR
 - Shaped Pulses (Amplitude and Phase modulated RF pulses)
 - Lindblad Master Equation
-- more
+- and more
