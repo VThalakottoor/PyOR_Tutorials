@@ -42,6 +42,7 @@ PyOR will be helpful for beginners (with basic knowledge of NMR and Python progr
       - Redfield Kite (Redkite)
     - Relaxation (Lindbladian dissipator and thermally corrected spectral density functions)
       - Auto-correlated Dipolar Homonuclear
+      - Auto-correlated Dipolar Hetronuclear
 
 ## Features to implement in PyOR
 - Shaped Pulses (Amplitude and Phase modulated RF pulses)
