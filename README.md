@@ -42,6 +42,6 @@ PyOR will be helpful for beginners (with basic knowledge of NMR and Python progr
       - Redfield Kite (Redkite)
 
 ## Features to implement in PyOR
-- Shaped Pulses (Amplitude and Phase modulated RF pulses)
 - Lindblad Master Equation (programming going on)
+- Shaped Pulses (Amplitude and Phase modulated RF pulses)
 - and more
