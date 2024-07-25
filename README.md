@@ -7,7 +7,7 @@ Author: Vineeth Thalakottoor (vineethfrancis.physics@gmail.com)
 - Other contributors: --- (I welcome contributors after the first release of PyOR)
 
 ## Why develop PyOR when many NMR simulation packages are available? Why reinvent the wheel?
-The short answer: "The Pleasure of Finding Things Out".
+The short answer: **"The Pleasure of Finding Things Out"**.
 
 ## Why Python??
 The answer is: it's free.
