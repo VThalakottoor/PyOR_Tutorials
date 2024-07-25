@@ -20,7 +20,7 @@ PyOR will be helpful for beginners (with basic knowledge of matrices, spin opera
 - Hamiltonians: Zeeman (lab and rotating frame), B1, J coupling, Dipolar.
 - Superoperators
 - Various ways to plot Matrix and expectation values.
--  Time Evolution of Density Matrix
+- Time Evolution of Density Matrix
   - Evolution in Hilbert Space
     - Unitary Propagation
     - Solve ODEs
