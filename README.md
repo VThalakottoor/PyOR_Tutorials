@@ -46,4 +46,5 @@ PyOR will be helpful for beginners (with basic knowledge of matrices, spin opera
 
 ## Features to implement in PyOR
 - Shaped Pulses (Amplitude and Phase modulated RF pulses)
-- and more
+- MRI, EPR, DNP, and Solid State experiments.
+- RF Circuit Simulator.
