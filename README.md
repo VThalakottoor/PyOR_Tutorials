@@ -1,5 +1,5 @@
 # Tutorials for PyOR (Python on Resonance)
-## Everybody can simulate NMR
+## Everybody can simulate NMR Spin Physics
 Author: Vineeth Thalakottoor (vineethfrancis.physics@gmail.com)
 ![PyOR logo](https://github.com/VThalakottoor/PyOR/blob/main/Images/PyOR_logo.png)
 ## PyOR developers
